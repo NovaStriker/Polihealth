@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>ToothOK</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Medical" sketch:type="MSLayerGroup" transform="translate(-860.000000, -1197.000000)" stroke="#00b3cf" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="ToothOK" transform="translate(873.000000, 1203.000000)" sketch:type="MSShapeGroup">
+                <path d="M8.88579463,15.5444146 L14.8658392,22.2074679 L26.3420828,7.33481697" id="Path-710"></path>
+                <path d="M26.2182923,49.0745564 C30.3120429,43.9518909 33,35.322262 33,25.5398959 C33,23.1211494 32.827574,21.026579 32.5045951,19.21369 C36.144763,11.761801 35.3757859,3.44475259 30.6931431,0.439328246 C28.7463785,-0.810148624 23.0718641,1.00260586 17.3973494,1.00260586 C11.7228347,1.00260586 6.0483196,-0.810148624 4.10155495,0.439328246 C-0.632935072,3.47802929 -1.36661365,11.9466285 2.4126394,19.4608902 L2.4126394,19.4608902 C2.14244786,21.2163167 2,23.2303198 2,25.5398959 C2,35.1711255 4.60554145,43.6849622 8.59297517,48.8346199 C9.45566508,36.6230428 13.0698209,27.4601138 17.397349,27.4601138 C21.753174,27.4601138 25.386267,36.7432637 26.2182923,49.0745564 Z" id="Oval-339"></path>
+            </g>
+        </g>
+    </g>
+</svg>
